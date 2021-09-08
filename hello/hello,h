@@ -1,0 +1,10 @@
+#ifndef __HELLO.H__
+#define __HELLO.H__
+
+class hello()
+{
+    public:
+    void print();
+}
+ 
+#endif
